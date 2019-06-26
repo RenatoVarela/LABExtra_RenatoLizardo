@@ -330,7 +330,7 @@
 	        {
 	            cout<<"Ingrese el numero: "<<endl;
 	            cin>>numero;
-	            matriz[i][j] = numero; //numero aletorio
+	            matriz[i][j] = numero; 
 	        }	
 	    }
 	}
